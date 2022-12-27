@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2422854122",
+    "firebase_url": "https://dsmpakistan-ec725-default-rtdb.firebaseio.com",
+    "project_id": "dsmpakistan-ec725",
+    "storage_bucket": "dsmpakistan-ec725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2422854122:android:f6a00beb48506246d42293",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2422854122-qlebj5h5fmlg708vedvjibv0ot20kefe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQE-GxR6f6L0FfIH6IHgPgh61HcEHxhA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2422854122-qlebj5h5fmlg708vedvjibv0ot20kefe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
